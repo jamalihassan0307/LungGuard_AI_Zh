@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.whl
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pytype/
+
+# Virtual environments
+.venv/
+venv/
+venv_py311/
+
+# Django
+*.log
+local_settings.py
+
+# SQLite
+*.sqlite3
+
+
+# OS
+.DS_Store
+Thumbs.db
